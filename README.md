@@ -1,1 +1,1 @@
-# 9.4 Flexbox Pricing Table Project
+Basic HTML / CSS Flexbox
